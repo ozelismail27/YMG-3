@@ -1,7 +1,7 @@
 # Derin Öğrenme ve CNN Yapısının İncelenmesi - Ödev Raporu
 
-**Öğrenci:** [Adınız Soyadınız]  
-**Öğrenci Numarası:** [Numaranız]  
+**Öğrenci:** [İsmail ÖZEL]  
+**Öğrenci Numarası:** [02230224047]  
 **Ders:** Derin Öğrenme / Yapay Zeka  
 **Kullanılan Kütüphaneler:** TensorFlow, Keras, NumPy, Matplotlib  
 **Veri Seti:** Fashion-MNIST  
